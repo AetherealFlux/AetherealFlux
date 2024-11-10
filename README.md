@@ -1,5 +1,14 @@
 ## Hi there 👋
-
+### Facts about me
+- I use `Windows` and `Linux(wsl)`, I don't use `Mac`
+- I use `Bash` and `Powershell`
+- I use `ASCII` and `unicode` `emojis`
+- I use `Solid/React`, I don't use `Vue`
+- I like `functional languages`, I don't like `boilerplate code`
+- I love `Vim`, especially the `keybinds`
+- I prefer `VsCode` with `City Fog` theme
+- I like to watch how different people learn and code
+- I like `simulation` or `strategy` games
 <!--
 **AetherealFlux/AetherealFlux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
