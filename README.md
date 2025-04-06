@@ -4,10 +4,11 @@
 - I use `Bash` and `Powershell`
 - I use `ASCII` and `unicode` `emojis`
 - I use `Solid/React`, I don't use `Vue`
-- I like `functional languages`, I don't like `boilerplate code`
+- I like `FP languages`, I don't like `boilerplate code`
 - I love `Vim`, especially the `keybinds`
-- I prefer `VsCode` with `City Fog` theme
+- I prefer `VsCode` with `Maple Mono` font
 - I like to watch how different people learn and code
+- I like to see AMI achieved, I don't think LLMs is the right way
 - I like `simulation` or `strategy` games
 <!--
 **AetherealFlux/AetherealFlux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
